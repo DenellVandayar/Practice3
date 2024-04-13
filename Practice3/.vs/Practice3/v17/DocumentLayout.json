@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\denel\\source\\repos\\Practice3\\",
+  "WorkspaceRootPath": "C:\\Users\\denel\\Documents\\GitHub\\Practice3\\Practice3\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1F27D052-2C06-4938-9C52-689220E721C6}|Practice3\\Practice3.csproj|c:\\users\\denel\\source\\repos\\practice3\\practice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1F27D052-2C06-4938-9C52-689220E721C6}|Practice3\\Practice3.csproj|c:\\users\\denel\\documents\\github\\practice3\\practice3\\practice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1F27D052-2C06-4938-9C52-689220E721C6}|Practice3\\Practice3.csproj|solutionrelative:practice3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\denel\\source\\repos\\Practice3\\Practice3\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\denel\\Documents\\GitHub\\Practice3\\Practice3\\Practice3\\Program.cs",
               "RelativeDocumentMoniker": "Practice3\\Program.cs",
-              "ToolTip": "C:\\Users\\denel\\source\\repos\\Practice3\\Practice3\\Program.cs",
+              "ToolTip": "C:\\Users\\denel\\Documents\\GitHub\\Practice3\\Practice3\\Practice3\\Program.cs",
               "RelativeToolTip": "Practice3\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-04-13T12:25:20.399Z",
               "EditorCaption": ""

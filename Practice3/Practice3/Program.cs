@@ -11,6 +11,7 @@ namespace Practice3
         static void Main(string[] args)
         {
             Console.WriteLine("Helo");
+            Console.WriteLine("Denell");
             Console.ReadLine();
         }
     }
